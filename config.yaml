@@ -1,0 +1,16 @@
+audio:
+  chans: 1
+  samp_rate: 44100
+  chunk: 4096
+  record_secs: 60
+  dev_index: 2
+  audio_output_dir: data\audio\
+
+vibro:
+  vibro_output_dir: data\vibro\
+  ComPort: COM6
+
+modbus:
+  modbus_output_dir: data\modbus\
+  ComPort: COM3
+
